@@ -1,0 +1,62 @@
+CREATE PROCEDURE AddStudent
+(
+	@FirstName VARCHAR(255),
+	@LastName VARCHAR(255),
+	@StudentImage image,
+	@DateOfBirth date,
+	@Gender VARCHAR(255),
+	@PhoneNumber VARCHAR(10),
+	@Address VARCHAR(255),
+	@ModuleCodes VARCHAR(255)
+)
+AS
+BEGIN
+	INSERT INTO Students
+	VALUES (@FirstName, @LastName, @StudentImage, @DateOfBirth, @Gender, @PhoneNumber, @Address, @ModuleCodes)
+END
+==============================================
+CREATE PROCEDURE UpdateStudent
+(
+	@Id int,
+	@FirstName VARCHAR(255),
+	@LastName VARCHAR(255),
+	@StudentImage image,
+	@DateOfBirth date,
+	@Gender VARCHAR(255),
+	@PhoneNumber VARCHAR(10),
+	@Address VARCHAR(255),
+	@ModuleCodes VARCHAR(255)
+)
+AS
+BEGIN
+	UPDATE Students
+	SET FirstName = @FirstName, LastName = @LastName, StudentImage = @StudentImage, DateOfBirth = @DateOfBirth, 
+	Gender = @Gender,  PhoneNumber = @PhoneNumber, Address = @Address, ModuleCodes = @ModuleCodes
+	WHERE StudentNumber = @Id
+END
+==============================================
+CREATE PROCEDURE DeleteStudent
+(
+	@Id int
+)
+AS
+BEGIN 
+	DELETE FROM Students
+	WHERE StudentNumber = @Id
+END
+==============================================
+CREATE PROCEDURE SearchStudent
+(
+	@Id int
+)
+AS
+BEGIN
+	SELECT * FROM Students
+	WHERE StudentNumber = @Id
+END
+==============================================
+CREATE PROCEDURE Display
+AS
+BEGIN
+	SELECT * FROM Students
+END

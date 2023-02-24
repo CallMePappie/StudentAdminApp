@@ -1,0 +1,27 @@
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.frmHome.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.frmViewStudents.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.frmAddStudent.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Programming 282\Projects\Projects\obj\Debug\Projects.Login.resources
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\bin\Debug\Projects.exe.config
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\bin\Debug\Projects.exe
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\bin\Debug\Projects.pdb
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.csproj.SuggestedBindingRedirects.cache
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.frmHome.resources
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.frmViewStudents.resources
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.Login.resources
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.exe
+D:\Belgium Campus\2nd Year\PRG282\PRG282 Project\Projects\Projects\obj\Debug\Projects.pdb
